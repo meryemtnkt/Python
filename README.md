@@ -23,3 +23,17 @@
 – Print the information on CV’s created on the screen
 
 
+# AI740
+
+- [Homework](https://github.com/meryemtnkt/Python/tree/main/ai740-odev-1)
+
+
+– Create 5 students. Ask these students from the user
+
+– Each of these students should have a midterm grade, project grade and final grade
+
+– passingGrade = midterm * (0.3) + project * (0.3) + final * (0.4) passing grade should be determined like this
+
+– Create a dictionary that keeps these students’ information.
+
+– Calculate the students’ grades and transfer them to the list with the help of indexing.
