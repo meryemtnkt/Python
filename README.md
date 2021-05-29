@@ -37,3 +37,21 @@
 – Create a dictionary that keeps these students’ information.
 
 – Calculate the students’ grades and transfer them to the list with the help of indexing.
+
+
+## Final
+
+
+– Write a knowledge competition program
+
+– It should consist of 10 questions in total
+
+– Each question will have only one answer
+
+– Adjust the answers of the questions according to case sensitivity
+
+– Each question should be worth 10 points
+
+– If User answers 5 or fewer questions, It will be considered unsuccessful
+
+– If the user answers more than 5 questions correctly, it will be considered successful
